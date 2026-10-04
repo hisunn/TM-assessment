@@ -31,7 +31,7 @@ public enum State {
                 return state;
             }
         }
-        return null; // Input doesn't match any valid enum string
+        return null;
     }
 
 }
